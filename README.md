@@ -9,7 +9,7 @@
 <p align="center">- 👀 I’m interested in Blockchain and Data</p>
 
 <h2 align="center"> Hangga's Stats</h2>
-<br align ="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=hanggaa&theme=shadow-purple" alt="GitHub Streak"></br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=hanggaa&theme=shadow-purple" alt="GitHub Streak"></p>
 
 <!--
 **hanggaa/hanggaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
