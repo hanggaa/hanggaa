@@ -4,10 +4,9 @@
     <br><img src="https://github.com/hanggaa/hanggaa/blob/main/Assets/Kuro.gif" width="450px">
 </p>
 
-<h2 align="center"> About Me
-    <p>- 🌱 I’m currently learning Rust and Lua</p></br>
-    <p>- 👀 I’m interested in Blockchain and Data</p></br>
-</h2>
+<h2 align="center"> About Me </h2>
+<p align="center">- 🌱 I’m currently learning Rust and Lua</p>
+<p align="center">- 👀 I’m interested in Blockchain and Data</p>
 
 <h1 align="center"> Hangga's Stats
   <br><img src="https://github-readme-streak-stats.herokuapp.com?user=hanggaa&theme=shadow-purple" alt="GitHub Streak"><br>
