@@ -8,9 +8,8 @@
 <p align="center">- 🌱 I’m currently learning Rust and Lua</p>
 <p align="center">- 👀 I’m interested in Blockchain and Data</p>
 
-<h1 align="center"> Hangga's Stats
-  <br><img src="https://github-readme-streak-stats.herokuapp.com?user=hanggaa&theme=shadow-purple" alt="GitHub Streak"><br>
-</h1>
+<h2 align="center"> Hangga's Stats</h2>
+<img align ="center" src="https://github-readme-streak-stats.herokuapp.com?user=hanggaa&theme=shadow-purple" alt="GitHub Streak">
 
 <!--
 **hanggaa/hanggaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
