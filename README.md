@@ -1,13 +1,12 @@
-# Hi Folks! 👋
-![kuro gif](https://github.com/hanggaa/hanggaa/blob/main/Assets/Kuro.gif)
-I'm **Hangga**, and I'm all about blockchain and strategic business analysis. I'm excited about technology and its impact on business growth. Welcome to my GitHub playground! Here's the lowdown on what I've been up to:
+<h1 align="center"> Hi Folks! <img width="30px" src="https://github.com/hanggaa/hanggaa/blob/main/Assets/hi.gif">, I'm <a href="http://vjdbdfev7eccg4yuzqasugpj62dybz7h43iwzkpzfrmb6pu56mk6edyd.onion/%E3%83%87%E3%83%9F%E3%83%83%E3%83%88.xht"> Hangga </a></h1>
 
-## About Me
-- 🌱 I’m currently learning Rust and Lua
-- 👀 I’m interested in Blockchain and Data
+<p align="center">
+  <br><img src="https://github.com/hanggaa/hanggaa/blob/main/Assets/Kuro.gif" width="450px">
+</p>
 
-## Github Stats
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hanggaa&theme=shadow-purple" alt="GitHub Streak" /></a>
+<h2 align="center"> Arsh Sahzad's Stats
+  <br><img src="https://github-readme-streak-stats.herokuapp.com?user=hanggaa&theme=shadow-purple" alt="GitHub Streak"><br>
+</h2>
 
 <!--
 **hanggaa/hanggaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
