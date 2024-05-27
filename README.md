@@ -4,10 +4,12 @@ I'm **Hangga**, and I'm all about blockchain and strategic business analysis. I'
 
 ## About Me
 <img align=right src="https://github.com/hanggaa/hanggaa/blob/main/Assets/Kuro.gif" alt="drawing" width="30%"/>
-🌱 I’m currently learning Rust and Lua
-👀 I’m interested in Blockchain and Data
+- 🌱 I’m currently learning Rust and Lua
+- 👀 I’m interested in Blockchain and Data
 
 ## Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=hanggaa&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact">
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hanggaa&theme=shadow-purple" alt="GitHub Streak" /></a>
 
 <!--
