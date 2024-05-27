@@ -1,14 +1,13 @@
 # Hi Folks! 👋
-
+![kuro gif](https://github.com/hanggaa/hanggaa/blob/main/Assets/Kuro.gif)
 I'm **Hangga**, and I'm all about blockchain and strategic business analysis. I'm excited about technology and its impact on business growth. Welcome to my GitHub playground! Here's the lowdown on what I've been up to:
 
 ## About Me
 - 🌱 I’m currently learning Rust and Lua
 - 👀 I’m interested in Blockchain and Data
-<img align=right src="https://github.com/hanggaa/hanggaa/blob/main/Assets/Kuro.gif" alt="drawing" width="30%"/>
 
 ## Github Stats
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hanggaa&theme=midnight-purple" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hanggaa&theme=shadow-purple" alt="GitHub Streak" /></a>
 
 <!--
 **hanggaa/hanggaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
