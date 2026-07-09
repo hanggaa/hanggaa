@@ -47,3 +47,45 @@
 </table>
 
 <br>
+
+<h2>📦 Shipped Products & Portfolio</h2>
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <!-- PRODUCT 1 -->
+  <tr>
+    <td style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background-color: #0d1117; margin-bottom: 12px;">
+      <p align="right"><em>Q4 2025</em></p>
+      <h3>🪙 DeFi Yield Aggregator (EVM)</h3>
+      <p><strong>Role:</strong> Technical Product Manager & Lead Smart Contract Architect</p>
+      <p>Managed the end-to-end lifecycle of a multi-chain yield aggregator. Designed the tokenomics structure and oversaw the Solidity contract audits.</p>
+      <p>
+        <strong>Tech Stack:</strong> 
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
+        <img src="https://img.shields.io/badge/Foundry-FF3E3F?style=flat-square" alt="Foundry">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      </p>
+      <p>📊 <strong>Key Metrics:</strong> $5M+ TVL within 30 days of launch | Audit completed with zero high-severity issues.</p>
+    </td>
+  </tr>
+  
+  <tr><td></td></tr> <!-- Spacer -->
+
+  <!-- PRODUCT 2 -->
+  <tr>
+    <td style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background-color: #0d1117; margin-bottom: 12px;">
+      <p align="right"><em>Q2 2026</em></p>
+      <h3>💧 Sui-Based Decentralized Exchange (DEX)</h3>
+      <p><strong>Role:</strong> Lead Technical PM</p>
+      <p>Directed the launch of a high-throughput, low-latency DEX leveraging Sui's unique object-based storage model and programmable transaction blocks.</p>
+      <p>
+        <strong>Tech Stack:</strong> 
+        <img src="https://img.shields.io/badge/Move%20(Sui)-4CA2FF?style=flat-square" alt="Move">
+        <img src="https://img.shields.io/badge/Sui%20CLI-4CA2FF?style=flat-square" alt="Sui CLI">
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+      </p>
+      <p>📊 <strong>Key Metrics:</strong> 250k+ daily transactions | Reduced average execution latency by 40% using Move.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
