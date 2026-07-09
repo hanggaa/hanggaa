@@ -89,3 +89,39 @@
 </table>
 
 <br>
+
+<h2>📊 GitHub Activity & Statistics</h2>
+
+<p align="center">
+  <!-- GitHub Readme Stats Card -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <!-- Top Languages Card -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
+</p>
+
+<br>
+
+<h3 align="center">🤝 Let's Connect & Collaborate</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
+  </a>
+  &nbsp;
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/normal-badge.png?id=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Profile Views">
+</p>
