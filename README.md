@@ -29,7 +29,7 @@
         <strong>Languages:</strong><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
-        <img src="https://img.shields.io/badge/Move (Sui)-4CA2FF?style=flat-square&logo=rust&logoColor=white" alt="Move">
+        <img src="https://img.shields.io/badge/Move%20(Sui)-4CA2FF?style=flat-square&logo=rust&logoColor=white" alt="Move">
       </p>
       <p>
         <strong>Ecosystems:</strong><br>
